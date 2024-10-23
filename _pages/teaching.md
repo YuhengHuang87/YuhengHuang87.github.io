@@ -11,7 +11,7 @@ I have various teaching experiences, from introductory biology classes to more s
 \
 #### Major experience
 Course Instructor, Organisms to Ecosystems (Bio 94), guest lecture on Introduction of Fungi and Animals, UC-Irvine, 2023 summer.\
-Teaching this introductory course brought back memories of a Zoology course I took as a freshman, when I first found evolutionary biology is very cool.\
+Teaching this introductory course brought back memories of a first-year Zoology course I took, when I first found evolutionary biology is very cool.\
 \
 Guest Lecturer, Introduction of genomics of pathogens (Genetics 548), UW-Madison, 2018.\
 \
